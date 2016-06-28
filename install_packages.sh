@@ -8,6 +8,7 @@ apm install highlight-selected
 apm install emmet
 apm install foldingtext-for-atom
 apm install clipboard-plus
+apm install quick-editor
 
 
 # File settings
@@ -43,7 +44,6 @@ apm install color-picker
 # Linter Packages
 apm install linter
 apm install linter-htmlhint
-apm install linter-csshint
 apm install linter-jshint
 apm install linter-flake8
 
