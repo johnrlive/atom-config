@@ -9,12 +9,16 @@ $ bash install_packages.sh
 # Key Mappings:
 
 ### Terminal Plus
+```
 terminal-plus:new = __cmd-shift-t__
 terminal-plus:toggle = __ctrl-`__
+```
 
 ### Imdone Atom:
+```
 Open Tasks Board	= __Alt+T__
 Todays Journal = __Alt+J__
+```
 
 # Packages:
 
