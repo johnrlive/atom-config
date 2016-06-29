@@ -138,11 +138,11 @@ In order to disable Enter as an autocomplete confirm key, we need to go to the K
 
 There, you need to write:
 
-# Disable Enter key for confirming an autocomplete suggestion
+__Disable Enter key for confirming an autocomplete suggestion__
 'atom-text-editor:not(mini).autocomplete-active':
   'enter': 'editor:newline'
 
-# Disable Enter key for confirming an autocomplete suggestion
+__Disable Enter key for confirming an autocomplete suggestion__
 'atom-text-editor:not(mini).autocomplete-active':
   'enter': 'editor:newline'
 Save the file and you’ll see the changes immediately. No need to restart Atom :-)
