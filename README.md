@@ -10,14 +10,14 @@ $ bash install_packages.sh
 
 ### Terminal Plus
 ```
-terminal-plus:new =  *cmd-shift-t*
-terminal-plus:toggle =  *ctrl-`*
+terminal-plus:new =  `cmd-shift-t`
+terminal-plus:toggle =  `ctrl-``
 ```
 
 ### Imdone Atom
 ```
-Open Tasks Board =  **Alt+T**
-Todays Journal =  **Alt+J**
+Open Tasks Board =  `Alt+T`
+Todays Journal =  `Alt+J`
 ```
 
 # Packages:
