@@ -6,9 +6,9 @@ apm install symbols-tree-view
 apm install auto-detect-indentation
 apm install highlight-selected
 apm install emmet
-apm install foldingtext-for-atom
 apm install clipboard-plus
 apm install quick-editor
+apm install tabs-to-spaces
 
 
 # File settings
