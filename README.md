@@ -23,8 +23,8 @@ Todays Journal =  (Alt + J)
 # Packages:
 
 ### Theme Packages
-[apm install seti-ui](https://atom.io/themes/seti-ui) - default ui-theme
-[atom-material-syntax-dark](https://atom.io/packages/atom-material-syntax-dark) - default syntax theme
+- [apm install seti-ui](https://atom.io/themes/seti-ui) - default ui-theme
+- [atom-material-syntax-dark](https://atom.io/packages/atom-material-syntax-dark) - default syntax theme
 
 ### System Packages
 - [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - vim-mode improved.
