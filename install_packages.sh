@@ -1,6 +1,12 @@
 #!bin/bash
 
-# system settings
+# Theme Packages
+# ui theme
+apm install seti-ui
+# syntax theme
+apm install atom-material-syntax-dark
+
+# System Packages
 apm install vim-mode-plus
 apm install symbols-tree-view
 apm install auto-detect-indentation
@@ -10,8 +16,7 @@ apm install clipboard-plus
 apm install quick-editor
 apm install tabs-to-spaces
 
-
-# File settings
+# File packages
 apm install file-icons
 apm install advanced-open-file
 apm install open-recent
@@ -19,13 +24,12 @@ apm install project-manager
 apm install project-plus
 apm install expose
 
-
-#productivity
+# Productivity Packages
 apm install imdone-atom #A task-board for TODOs, FIXMEs, HACKs, etc in your code.
 apm install jumpy
 apm install toggle-quotes
 
-# Minimap settings
+# Minimap Packages
 apm install minimap
 apm install minimap-autohide
 apm install minimap-codeglance
@@ -37,7 +41,7 @@ apm install minimap-highlight-selected
 # HTML Packages
 apm install less-than-slash
 
-# Color
+# Color Packages
 apm install pigments
 apm install color-picker
 
@@ -54,7 +58,7 @@ pip install git+git://github.com/myint/scspell.git
 apm install linter-scspell
 apm install linter-ansible-linting
 
-# Python settings
+# Python Packages
 pip install --upgrade jedi yapf
 apm install atom-beautify
 
@@ -62,5 +66,5 @@ apm install atom-beautify
 npm install -g node-gyp
 apm install terminal-plus
 
-# misc.
+# Misc. Packages
 apm install rest-client

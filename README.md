@@ -6,15 +6,21 @@ $ cd atom-config
 $ bash install_packages.sh
 ```
 
-# Key Mappings
+# Key Mappings:
 
-## Terminal Plus
+### Terminal Plus
 terminal-plus:new = __cmd-shift-t__
 terminal-plus:toggle = __ctrl-`__
 
-Provides the ability to convert between leading tabs and spaces in a document
+### Imdone Atom:
+Open Tasks Board	= __Alt+T__
+Todays Journal = __Alt+J__
 
-# Packages
+# Packages:
+
+### Theme Packages
+[apm install seti-ui](https://atom.io/themes/seti-ui) - default ui-theme
+[atom-material-syntax-dark](https://atom.io/packages/atom-material-syntax-dark) - default syntax theme
 
 ### System Packages
 - [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - vim-mode improved.
@@ -38,9 +44,8 @@ Provides the ability to convert between leading tabs and spaces in a document
 
 ****
 
-
 ### Productivity Packages
-- imdone-atom
+- [imdone-atom](https://atom.io/packages/imdone-atom) - A hackable task-board in your code.
 - jumpy
 - toggle-quotes
 
