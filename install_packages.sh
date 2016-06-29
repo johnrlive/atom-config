@@ -41,17 +41,21 @@ apm install less-than-slash
 apm install pigments
 apm install color-picker
 
+# Django Packages
+apm install atom-django
+
 # Linter Packages
 apm install linter
 apm install linter-htmlhint
 apm install linter-jshint
-apm install linter-flake8
+apm install linter-bootlint
+apm install linter-scss-lint
+pip install git+git://github.com/myint/scspell.git
+apm install linter-scspell
+apm install linter-ansible-linting
 
-# Django Packages
-apm install atom-django
-
-# python settings
-pip install --upgrade flake8 flake8-docstrings jedi yapf
+# Python settings
+pip install --upgrade jedi yapf
 apm install atom-beautify
 
 # Terminal Packages

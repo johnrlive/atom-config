@@ -6,6 +6,14 @@ $ cd atom-config
 $ bash install_packages.sh
 ```
 
+# Key Mappings
+
+## Terminal Plus
+terminal-plus:new = __cmd-shift-t__
+terminal-plus:toggle = __ctrl-`__
+
+Provides the ability to convert between leading tabs and spaces in a document
+
 # Packages
 
 ### System Packages
@@ -60,16 +68,18 @@ $ bash install_packages.sh
 
 ****
 
-### Linter Packages
-- linter
-- linter-htmlhint
-- linter-jshint
-- [linter-flake8](https://atom.io/packages/linter-flake8) - is a flake8 provider for linter.
+### Django Package
+- [atom-django](https://atom.io/packages/atom-django) - Build Django apps faster with Atom.
 
 ****
 
-### Django Packages
-- atom-django
+### Linter Packages
+- linter - needed for linter packages to work
+- linter-htmlhint - for HTML
+- linter-jshint - for javascript
+- linter-bootlint - for bootstrap
+- linter-scss-lint - for scss
+- linter-ansible-linting - for Ansible
 
 ****
 
