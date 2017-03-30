@@ -15,6 +15,7 @@ apm install emmet
 apm install clipboard-plus
 apm install quick-editor
 apm install tabs-to-spaces
+apm install rest-client
 
 # File packages
 apm install file-icons
@@ -40,6 +41,9 @@ apm install minimap-highlight-selected
 
 # HTML Packages
 apm install less-than-slash
+apm install autoclose-html
+apm install atom-beautify
+apm install auto-detect-indentation
 
 # Color Packages
 apm install pigments
@@ -56,11 +60,10 @@ apm install linter-bootlint
 apm install linter-scss-lint
 pip install git+git://github.com/myint/scspell.git
 apm install linter-scspell
-apm install linter-ansible-linting
+#apm install linter-ansible-linting
 
 # Python Packages
 pip install --upgrade jedi yapf
-apm install atom-beautify
 
 # Terminal Packages
 npm install -g node-gyp
@@ -68,3 +71,8 @@ apm install terminal-plus
 
 # Misc. Packages
 apm install rest-client
+
+# Jekyll Packages
+apm install markdown-writer
+apm install tool-bar markdown-writer
+apm install tool-bar-markdown-writer
