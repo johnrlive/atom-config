@@ -6,8 +6,14 @@ apm install seti-ui
 # syntax theme
 apm install atom-material-syntax-dark
 
-# System Packages
+# Styling CSS/LESS/SCSS
+apm install quick-editor
+
+# Vim Packages
+apm install vim-mode-clipboard-plus
 apm install vim-mode-plus
+
+# Vim System Packages
 apm install symbols-tree-view
 apm install auto-detect-indentation
 apm install highlight-selected
